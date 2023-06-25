@@ -1,3 +1,6 @@
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="aravindramvjs Stats" /></p>
+
+
 
 <h1 align="center">Hi 👋, I'm ARAVIND RAM</h1>
 <h3 align="center">I am kindda person who believes talk is cheap show me the code.</h3>
