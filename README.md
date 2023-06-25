@@ -1,5 +1,12 @@
+<h1 align="center">Hi 👋, I'm ARAVIND RAM</h1>
+<h3 align="center">I am kindda person who believes talk is cheap show me the code.</h3>
+
 # 💫 About Me:
-💻 I'm currently working on FreshTime Mobile App<br>🤼 I'm looking to collaborate on building Artificial Intelligence<br>🌱 I'm Currently Learning Java☕<br>😎 Ask me About JavaScript , Python<br>😁 Ctrl+c and Ctrl+v saved me a lot😅<br>
+💻 I'm currently working on **FreshTime Mobile App**<br>
+🤼 I'm looking to collaborate on building **Artificial Intelligence**<br>
+🌱 I'm Currently Learning **Java☕**<br>
+😎 Ask me About **JavaScript, Python**<br>
+😁 **Ctrl+c and Ctrl+v** saved me a lot😅<br>
 
 
 ## 🌐 Socials:
