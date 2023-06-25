@@ -26,6 +26,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+![Snake animation](https://github.com/aravindramvjs/aravindramvjs/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=aravindramvjs&icon=6&color=1" alt="aravindramvjs" /> </p>
