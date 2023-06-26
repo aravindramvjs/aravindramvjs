@@ -1,4 +1,4 @@
-<p><img align="center" src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="aravindramvjs Stats" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="aravindramvjs Stats" /></p>
 
 
 
